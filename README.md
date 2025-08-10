@@ -1,2 +1,2 @@
 # odin-recipes
-This is my first project in the odin project under the foundations course html section.
+Check out some interesting jello infused recipes with my attempt at The Odin Project Recipes project.
