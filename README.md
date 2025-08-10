@@ -1,2 +1,2 @@
 # odin-recipes
-First project in The Odin Project
+This is my first project in the odin project under the foundations course html section.
